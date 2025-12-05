@@ -8,17 +8,14 @@
 - 🎯 Goal: Become a **Full Stack Developer**
 - 💬 Ask me about **Node.js, Express, MongoDB, Java, Git, GitHub**
 - 📍 India  
-- 📫 Email: **your-email@gmail.com**
+- 📫 Email: **rana745506@gmail.com**
 
 ---
 
 ### 🌐 Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINK" target="_blank">
+<a href="linkedin.com/in/sachin-rana-549a6a327" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-<a href="https://instagram.com/YOUR-LINK" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
 </p>
 
@@ -26,7 +23,7 @@
 
 ### 🛠️ Languages & Tools
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,mysql,git,github,linux,python" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,mysql,git,github" />
 </p>
 
 ---
