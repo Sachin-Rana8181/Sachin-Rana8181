@@ -16,11 +16,7 @@
 ---
 
 <!-- Right Side Illustration -->
-<p align="right">
-  <img src="https://raw.githubusercontent.com/mckaywrigley/storyset-images/main/coding/amico.png" width="300">
-</p>
 
----
 
 ### 🌐 Connect With Me
 <p align="left">
