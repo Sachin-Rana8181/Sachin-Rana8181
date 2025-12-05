@@ -3,11 +3,6 @@
 
 ---
 
-<!-- Profile Photo (Center) -->
-<p align="center">
-  <!-- Replace YOUR_IMAGE_LINK with your actual uploaded photo link -->
-  <img src="YOUR_IMAGE_LINK" width="200" style="border-radius: 50%">
-</p>
 
 ---
 
@@ -42,12 +37,6 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-<p align="left">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sachinrana8181&show_icons=true&theme=tokyonight"/>
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinrana8181&theme=tokyonight"/>
-</p>
 
 ---
 
