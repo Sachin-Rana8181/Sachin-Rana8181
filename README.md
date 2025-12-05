@@ -22,7 +22,7 @@
 
 <!-- Right Side Illustration -->
 <p align="right">
-  <img src="https://storyset.com/illustration/coding/amico?png=1" width="300">
+  <img src="https://raw.githubusercontent.com/mckaywrigley/storyset-images/main/coding/amico.png" width="300">
 </p>
 
 ---
@@ -38,7 +38,7 @@
 
 ### 🛠️ Languages & Tools
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,mysql,git,github,linux" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,mysql,git,github" />
 </p>
 
 ---
