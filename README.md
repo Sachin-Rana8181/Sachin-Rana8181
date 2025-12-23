@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 About Me
-- 🌱 Currently learning **MERN, DevOps, AWS**
+- 🌱 Currently learning **MERN,JAVA**
 - 🎯 Goal: Become a **Full Stack Developer**
 - 💬 Ask me about **Node.js, Express, MongoDB, Java, Git, GitHub**
 - 📍 India  
